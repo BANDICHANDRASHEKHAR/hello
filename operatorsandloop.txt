@@ -1,0 +1,71 @@
+1Q)
+   There ae three types of conditional operators
+   1)logical and
+   2)logical or
+   3)ternary operator
+
+2Q)
+    Three are three types of operators based on operands
+    1)unary opearator
+    2)binary operator
+    3)Ternary operator
+   
+3Q) Switch case works as if else ladder.value is provided to switch if these value is matched to any case value that case will be executed otherwise default case will be executed.
+It select only one case otherwise default case.
+Mainly used in at the time of choose the correct answers switch case is helpful.
+
+4Q)
+   There are two priority  level
+    1) */ % (high priority)
+    2)+ -(low priority)
+   
+5Q)
+  Conditional statements are
+   1)if(condition is true if block will be executed
+   2)if else(condition is true if block will be executed otherwise else block executed)
+   3)if else if(condition is true if block will be executed check else if condition if it is true block executed  otherwise else block executed)
+   4)switch(based on the case value that block executed)
+
+6Q)
+  if(condtion1){
+    //block
+  }
+   else{
+    //block
+}
+
+
+7Q)
+ 
+  there are three types of iterative statements
+   1)for loop
+   2)while loop
+   3)do while loop
+
+8Q)
+   FOR LOOP:
+      ->entry controlled loop
+      ->condition is checked before executing the statements
+      ->syntax 
+           for(initialization;condition;increament/decrement){
+   //block
+}
+
+   WHILE LOOP:
+    1)exit controlled loop
+    2)statements executed atleast once even if the condition is false
+    3) syntax:
+        do{
+          //code
+         }while(condition);
+   
+9Q)public class numbers{
+     public static void main(String[] args){
+      for(int i=1;i<11;i++){
+          System.out.println(i)
+      }
+   }
+}
+  
+
+   
